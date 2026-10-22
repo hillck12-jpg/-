@@ -6,7 +6,6 @@ Retail Data Visualization & Business Analysis
 
 ## 项目结构
 
-```text
 retail-data-visualization/
 │
 ├── data/               # 存放原始Excel数据文件
