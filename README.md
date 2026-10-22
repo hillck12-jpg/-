@@ -5,19 +5,21 @@ Retail Data Visualization & Business Analysis
 本项目基于Python技术栈，使用真实的Excel零售业务数据，完成数据清洗、处理以及经典可视化图表的复现。旨在通过代码将静态数据转化为直观的商业图表，为商业数据分析提供可复用的技术方案与决策参考。
 
 ## 项目结构
+
+```text
 retail-data-visualization/
 │
-├── data/ # 存放原始Excel数据文件
+├── data/               # 存放原始Excel数据文件
 │
-├── scripts/ # 核心代码脚本
-│ ├── data_process.py # 数据清洗与预处理
-│ └── visualization_basic.py # 核心可视化图表代码（Matplotlib/Seaborn）
+├── scripts/            # 核心代码脚本
+│   ├── data_process.py        # 数据清洗与预处理
+│   └── visualization_basic.py # 核心可视化图表代码（Matplotlib/Seaborn）
 │
-├── figures/ # 可视化输出图表（PNG格式）
+├── figures/            # 可视化输出图表（PNG格式）
 │
-├── requirements.txt # 依赖包清单
+├── requirements.txt    # 依赖包清单
 │
-└── README.md # 项目说明文档
+└── README.md           # 项目说明文档
 
 ## 核心功能
 1. **数据清洗**
