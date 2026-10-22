@@ -6,18 +6,18 @@ Retail Data Visualization & Business Analysis
 
 ## 项目结构
 retail-data-visualization/
-
-├── data/               # 存放原始Excel数据文件
-
-├── scripts/            # 核心代码脚本
-│   ├── data_process.py        # 数据清洗与预处理
-│   └── visualization_basic.py # 核心可视化图表代码（Matplotlib/Seaborn）
-
-├── figures/            # 可视化输出图表（PNG格式）
-
-├── requirements.txt    # 依赖包清单
-
-└── README.md           # 项目说明文档
+│
+├── data/ # 存放原始Excel数据文件
+│
+├── scripts/ # 核心代码脚本
+│ ├── data_process.py # 数据清洗与预处理
+│ └── visualization_basic.py # 核心可视化图表代码（Matplotlib/Seaborn）
+│
+├── figures/ # 可视化输出图表（PNG格式）
+│
+├── requirements.txt # 依赖包清单
+│
+└── README.md # 项目说明文档
 
 ## 核心功能
 1. **数据清洗**
