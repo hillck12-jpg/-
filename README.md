@@ -28,10 +28,10 @@ Retail Data Visualization & Business Analysis
 ```bash
 cd scripts
 python visualization_basic.py
+```
+
+
 ## 效果预览
-
-
-
 | 渐变柱形图 | 蝴蝶图 |
 | :---: | :---: |
 | ![渐变柱形图](figures/01_渐变柱形图.png) | ![蝴蝶图](figures/06_蝴蝶图.png) |
