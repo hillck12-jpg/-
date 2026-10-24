@@ -55,7 +55,7 @@ python funnel_chart.py
 
 | 网站访问流向桑基图（第2章） | 航空客流效应分解与预测（第10章） |
 | :---: | :---: |
-| ![桑基图](商业数据分析/figures/sankey_flow.png) | ![航空预测](商业数据分析/figures/air_forecast.png) |
+| ![桑基图](figures/sankey_flow.png) | ![航空预测](figures/air_forecast.png) |
 
 ## 章节与图表对照
 
