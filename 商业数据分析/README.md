@@ -31,6 +31,7 @@ CDA Level I Business Data Analysis: Reproducing Textbook Cases with Python
 cd "第2章 数据分析方法/scripts"
 python sankey_flow.py
 python funnel_chart.py
+```
 
 ## 效果预览
 
