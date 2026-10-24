@@ -34,4 +34,4 @@ python visualization_basic.py
 ## 效果预览
 | 渐变柱形图 | 蝴蝶图 |
 | :---: | :---: |
-| ![渐变柱形图](project_A/figures/01_渐变柱形图.png) | ![蝴蝶图](project_A/figures/06_蝴蝶图.png) |
+| ![渐变柱形图](Project_A/figures/01_渐变柱形图.png) | ![蝴蝶图](Project_A/figures/06_蝴蝶图.png) |
